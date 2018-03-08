@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Celere sistemas
+Build-Jdk: 9.0.4
+Implementation-Title: 
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.bytestree.restful
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-restf
+ ul-service/
+Created-By: Maven Integration for Eclipse
+
